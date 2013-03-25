@@ -1,1 +1,11 @@
+ankipack
+
+anki deck generation combing frequency lists with tatoeba. see http://tatoeba.org.
+
 download sentences.csv and links.csv from http://tatoeba.org/eng/download_tatoeba_example_sentences
+
+parsed all french/english combos into database.
+
+french frequency lists pulled from http://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/French_wordlist_opensubtitles_5000
+
+used db to look up example sentence combos word in the given frequency list.
